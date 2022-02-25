@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(135, 177, 163);
+}
+
+h1 {
+    background-color: aquamarine;
+    font-family: 'Redressed', cursive;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    border-radius: 20px;
+    padding: 25px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 30px;
+    text-align: center;
+    color:rgb(20, 20, 32);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 30px;
+}
+
+h3 {
+    font-family: 'Abel', sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    color: black;
+    padding: 2px;
+    border-radius: 8px;
+    border-style: groove;
+}
